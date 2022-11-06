@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "caption": "Mountains",
+      "image_url": "https://i.ibb.co/1LySH9K/Captu.png"
+    },
+    {
+      "id": "3",
+      "caption": "hello",
+      "image_url": "https://i.ibb.co/0nzwQ2f/one-piece-ace-lives-1006367-1280x0.jpg"
+    },
+    {
+      "id": "4",
+      "caption": "imui",
+      "image_url": "https://i.ibb.co/xLtbBbL/Capture.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
